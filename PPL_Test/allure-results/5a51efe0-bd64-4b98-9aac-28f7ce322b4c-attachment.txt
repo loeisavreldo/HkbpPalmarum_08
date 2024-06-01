@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "./option[. = \"Petani\"]|./option[normalize-space(text()) = \"Petani\"]|./optgroup/option[. = \"Petani\"]|./optgroup/option[normalize-space(text()) = \"Petani\"]"
+}

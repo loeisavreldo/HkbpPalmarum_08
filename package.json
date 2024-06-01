@@ -1,0 +1,40 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "axios": "^1.1.2",
+    "laravel-vite-plugin": "^0.7.2",
+    "vite": "^4.5.1"
+  },
+  "name": "kel08_ppl_websitehkbppalmarum",
+  "description": "-aktifkan xampp<br> -php artisan serve -Laravel v10.32.1 -PHP v8.2.4",
+  "version": "1.0.0",
+  "main": "vite.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "asynckit": "^0.4.0",
+    "combined-stream": "^1.0.8",
+    "create-vite": "^5.0.0",
+    "delayed-stream": "^1.0.0",
+    "esbuild": "^0.18.20",
+    "follow-redirects": "^1.15.2",
+    "form-data": "^4.0.0",
+    "mime-db": "^1.52.0",
+    "mime-types": "^2.1.35",
+    "nanoid": "^3.3.7",
+    "picocolors": "^1.0.0",
+    "picomatch": "^2.3.1",
+    "postcss": "^8.4.31",
+    "proxy-from-env": "^1.1.0",
+    "rollup": "^3.29.4",
+    "source-map-js": "^1.0.2",
+    "vite-plugin-full-reload": "^1.0.5"
+  },
+  "author": "",
+  "license": "ISC"
+}
